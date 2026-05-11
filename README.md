@@ -217,6 +217,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ### Stay Updated and Join the Community
 
-- **LinkedIn**: [Connect with me professionally](linkedin.com/in/mansi-lambhe-b42a20273)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/mansi-lambhe-b42a20273/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXVsqUDk1TBKSyKIghIzLtA%3D%3D)
   
 Thank you for your support, and I look forward to connecting with you!
